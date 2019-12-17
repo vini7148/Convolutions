@@ -31,7 +31,7 @@ The following image
 
 ![Orignal](https://github.com/vini7148/Convolutions/blob/master/images/orignal.png)
 
-when passed into the horizontal edge detector is converted
+when passed into the horizontal edge detector is converted to
 
 ![Horizontal Edge](https://github.com/vini7148/Convolutions/blob/master/images/horizontal%20Edge.png)
 
