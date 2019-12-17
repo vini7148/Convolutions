@@ -29,11 +29,11 @@ cd Convolutions
 
 The following image
 
-()
+![Orignal](https://github.com/vini7148/Convolutions/blob/master/images/orignal.png)
 
 when passed into the horizontal edge detector is converted
 
-()
+![Horizontal Edge](https://github.com/vini7148/Convolutions/blob/master/images/horizontal%20Edge.png)
 
 ## Built With
 
